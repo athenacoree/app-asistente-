@@ -1,0 +1,6 @@
+{
+  "name": "1",
+  "description": "El asistente autónomo más poderoso para Android. Control total del sistema por voz, iOS Control por Voz, modelos locales offline y OpenRouter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
